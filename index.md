@@ -5,7 +5,7 @@
 ### Explore My Projects
 
 #### [Food Delivery Analytics with Excel](https://www.linkedin.com/posts/bethany-maccarter-7a0a0b8_dataanalysis-datacareerjumpstart-excel-activity-7060009272524361728-yDPr?utm_source=share&utm_medium=member_desktop)
-<img src="images/Screen Shot 2023-12-28 at 2.42.33 PM.png?raw=true"/>
+<img src="images/Screen Shot 2023-12-28 at 2.57.18 PM.png?raw=true"/>
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
