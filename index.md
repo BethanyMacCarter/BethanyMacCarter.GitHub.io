@@ -2,11 +2,10 @@
 
 ---
 
-### Learn About My Projects
+### Explore My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Food Delivery Analytics with Excel](https://www.linkedin.com/posts/bethany-maccarter-7a0a0b8_dataanalysis-datacareerjumpstart-excel-activity-7060009272524361728-yDPr?utm_source=share&utm_medium=member_desktop)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
