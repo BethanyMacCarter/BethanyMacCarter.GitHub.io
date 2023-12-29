@@ -9,7 +9,7 @@
 
 ---
 #### [LinkedIN Connections Dashboard](https://public.tableau.com/app/profile/bethany.maccarter/viz/LinkedINConnectionsDashboard/Dashboard1)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Screen Shot 2023-12-29 at 11.50.11 AM.png?raw=true"/>]
 2023 was the year I became more active on LinkedIn.  This quick Tableau Project analyzes my personal data as of 12.20.23.   
 
 
